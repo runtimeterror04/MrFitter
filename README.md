@@ -36,3 +36,5 @@ pullup,chinup,bicycle,pushup,leg raises,calve raises,crunches,dips,diamond pushu
 ```
 There could be instances where the GUI crashes, just restart the application and continue where you left. 
 
+Link for Youtube tutorial : https://youtu.be/Q-43isUNn5Y
+
