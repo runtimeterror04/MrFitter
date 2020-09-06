@@ -16,3 +16,12 @@ pip install <library_name>
 Both the .py format file as well as 'WitFacebook' named folder need to be in the same directory.
 
 File with name 'main' needs to be run.
+
+After running the code give the text or voice command in following manner:
+
+```
+'I want to do pushups'
+'I wish to train my back'
+```
+
+And it'll tell you how and what to do.
